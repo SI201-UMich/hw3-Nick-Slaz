@@ -1,4 +1,4 @@
-# HW3-W26-new
+# HW3-W26
 Repository for Winter 2026 for Homework 3 
 
 # to download this repo to your local comptuer first change to a directory where you want it to go
